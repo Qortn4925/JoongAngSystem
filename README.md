@@ -1,5 +1,6 @@
 🧑‍💻 중앙 시스템
 
+
 중앙 시스템은 편의점 내 자산(물품, 장비 등)의 입고, 출고, 재고, 이력 등을 효율적으로 관리하기 위한 자산 관리 시스템입니다.
 사용자 역할에 따라 관리자와 일반 직원으로 권한을 분리하고, 자산 등록, 검색, 수정, 삭제, 입출고 처리, 재고 현황 조회 등 핵심 기능을 구현하였습니다.
 웹 기반으로 직관적인 UI를 제공하며, 편의점 운영의 효율성을 높이기 위한 목적의 내부 관리 도구입니다.
@@ -29,12 +30,12 @@
 
 | 이름  | 역할 및 담당 업무                                                   | GitHub                                               |
 | --- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| 민재원 | • 팀장<br>• 창고 관리<br>• 로케이션 관리<br>• 물품 입출내역<br>• 재고 실사         | [github.com/Lemonstew](https://github.com/Lemonstew)                                                     |
-| 김민경 | • 팀원<br>• 가맹점 관리<br>• 구매 관리                                  | [github.com/keaimk](https://github.com/keaimk)       |
-| 김수민 | • 팀원<br>• 품목 관리<br>• 공통 코드 관리<br>• 설치 관리                     | [github.com/soomni01](https://github.com/soomni01)   |
-| 김용수 | • 팀원<br>• 인사 관리<br>• 입고 관리                                   | [github.com/Qortn4925](https://github.com/Qortn4925) |
-| 김지민 | • 팀원<br>• 협력 업체 관리<br>• 반품(회수) 관리                            |[github.com/Jin19121](https://github.com/Jin19121)                                                    |
-| 윤병관 | • 팀원<br>• 사업장/부서 관리<br>• 공통 코드 관리<br>• 위치별 재고 현황<br>• 메인 페이지 | - [github.com/y5624711](https://github.com/y5624711)                                                   |
+| 민재원 L| •  창고 관리<br>• 로케이션 관리<br>• 물품 입출내역<br>• 재고 실사         | [github.com/Lemonstew](https://github.com/Lemonstew)                                                     |
+| 김민경 | •  가맹점 관리<br>• 구매 관리                                  | [github.com/keaimk](https://github.com/keaimk)       |
+| 김수민 | •  품목 관리<br>• 공통 코드 관리<br>• 설치 관리                     | [github.com/soomni01](https://github.com/soomni01)   |
+| 김용수 | •  인사 관리<br>• 입고 관리                                   | [github.com/Qortn4925](https://github.com/Qortn4925) |
+| 김지민 | •  협력 업체 관리<br>• 반품(회수) 관리                            |[github.com/Jin19121](https://github.com/Jin19121)                                                    |
+| 윤병관 | •  사업장/부서 관리<br>• 공통 코드 관리<br>• 위치별 재고 현황<br>• 메인 페이지 | - [github.com/y5624711](https://github.com/y5624711)                                                   |
 
 <br/>
 
