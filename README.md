@@ -70,11 +70,11 @@
 ## 🖼️ 구현 화면
 
 <details>
-<summary>🏠 <strong>로그인/회원 가입</strong></summary>
+<summary>🏠 <strong>로그인/메인 페이지</strong></summary>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7f793b7-7627-4ae0-a6ed-16df6d98347b" width="600"/>
-  <img src="https://github.com/user-attachments/assets/4da2caf8-8f6f-4a57-9804-b8110a82e756" width="600"/>
+  <img width="600" alt="KakaoTalk_20250630_200253016" src="https://github.com/user-attachments/assets/9a47c777-25fb-4f89-aa02-9d33f7b39c41" />
+<img width="600" alt="메인페이지" src="https://github.com/user-attachments/assets/277e7c14-656d-4103-949f-6ad5aa263393" />
 </p>
 
 </details>
@@ -82,56 +82,17 @@
 ---
 
 <details>
-<summary>➕ <strong>상품 등록</strong></summary>
+<summary>➕ <strong>기준정보 관리</strong></summary>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/21718913-400c-4bfa-b202-834a01ef8736" width="600"/>
-  <img src="https://github.com/user-attachments/assets/9a8d59ed-043e-490e-ad7e-512c05de13df" width="600"/>
-  <img src="https://github.com/user-attachments/assets/e94dccdd-a9b5-41b4-b3c3-f3e8eadeabe1" width="600"/>
-  <img src="https://your-image-url.com/register.gif" width="600"/>
-</p>
-
-</details>
-
----
-
-<details>
-<summary>📝 <strong>게시판</strong></summary>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/27be9173-7e3c-420d-8672-41ac263c6278" width="600"/>
-  <img src="https://github.com/user-attachments/assets/10f63eb8-634a-4a0d-92e8-510f10213f7f" width="600"/>
-</p>
-
-</details>
-
----
-
-<details>
-<summary>💬 <strong>실시간 채팅</strong></summary>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b22d80ed-d6ca-47ec-8319-5e64e93d6aca" width="600"/>
-  <img src="https://github.com/user-attachments/assets/185146cf-9b42-4287-8bec-d1d4b8903a40" width="600"/>
-  <img src="https://github.com/user-attachments/assets/51c58c58-6dcd-4a92-b6b3-7375556282d6" width="600"/>
-  <img src="https://github.com/user-attachments/assets/3ce3e3ea-7420-4aec-9a31-1e2308aa3c75" width="600"/>
-  <img src="https://github.com/user-attachments/assets/e2640909-7f2a-4ba6-a5c2-fb22b252c0c7" width="600"/>
-</p>
-
-</details>
-
----
-<details>
-<summary>💬 <strong>지도</strong></summary>
-
-<p align="center">
-![검색 결과 리스트+마커](https://github.com/user-attachments/assets/186ae3b8-cda2-4ed5-8d02-e0c7d77231e0)
-
-![리스트 혹은, 마커 클릭시](https://github.com/user-attachments/assets/a555f665-e6c1-433c-9cfc-e9fd6d065bb6)
-
-![카테고리 클릭시](https://github.com/user-attachments/assets/15c5f7a9-5b73-41e3-9915-33a3255d2504)
-
-![카테고리 상세](https://github.com/user-attachments/assets/ba1594b8-9bff-49f4-94e5-e4e428a9968c)
+  <img width="600" alt="사업장관리" src="https://github.com/user-attachments/assets/9bf3fe33-b230-4376-8a51-e3e940d11769" />
+<img width="600" alt="인사관리" src="https://github.com/user-attachments/assets/3e9a419f-620f-41c7-b093-49e272c82fc1" />
+<img width="600" alt="가맹점관리" src="https://github.com/user-attachments/assets/c7c2b68f-0338-4c6c-abf0-4e173d55c745" />
+<img width="600" alt="협력업체 관리" src="https://github.com/user-attachments/assets/c7fe321c-c54d-443c-9897-041acf463900" />
+  <img width="600" alt="품목관리" src="https://github.com/user-attachments/assets/1ec4a883-96fb-4a03-8ecd-3ab4483143ce" />
+<img width="600" alt="창고관리" src="https://github.com/user-attachments/assets/247eb687-8298-46c2-b7c1-d3308126a3a4" />
+<img width="600" alt="로케이션관리" src="https://github.com/user-attachments/assets/0ce986d8-4d01-4fd8-a6cd-e8f865bdcce7" />
+<img width="600" alt="공통코드관리" src="https://github.com/user-attachments/assets/b823ce09-5bc7-4a61-a4ee-70fd0df72006" />
 
 </p>
 
@@ -140,31 +101,31 @@
 ---
 
 <details>
-<summary>📩 <strong>1대1 문의</strong></summary>
+<summary>📝 <strong>구매/설치 관리</strong></summary>
+
+<p align="center"><img width="600" alt="구매관리" src="https://github.com/user-attachments/assets/6bede5b6-e7d6-44dc-9880-92d9ca1274a1" />
+<img width="600" alt="입고관리" src="https://github.com/user-attachments/assets/99df9f90-e21f-49b8-9745-1439c34d83f9" />
+  <img width="600" alt="반품회수관리" src="https://github.com/user-attachments/assets/ba78940e-2f11-4c91-8fde-08beef46e667" />
+<img width="600" alt="설치관리" src="https://github.com/user-attachments/assets/b3502374-3c99-443d-94c6-8dc1b1dc8eba" />
+
+</p>
+
+</details>
+
+<details>
+<summary>📝 <strong>물류 관리</strong></summary>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/467ddd3a-b274-4689-95d0-f37b4bf6e3ac" width="600"/>
-  <img src="https://github.com/user-attachments/assets/ca77a3f7-f32d-4053-b096-f2e46b4c584a" width="600"/>
+  <img width="600" alt="물품입출내역" src="https://github.com/user-attachments/assets/f8a9e01e-b964-4ac8-a556-90f87f58077d" />
+<img width="600" alt="재고실사" src="https://github.com/user-attachments/assets/b1bba59a-ac31-46bc-83f5-78dd0b94d31f" />
+<img width="600" alt="위치별 재고 현황" src="https://github.com/user-attachments/assets/80e3f7fe-6483-4978-9bce-e983852817bb" />
+
+
+
 </p>
 
 </details>
 
 ---
-
-<details>
-<summary>👤 <strong>마이페이지</strong></summary>
-
-- 내가 등록한 상품, 찜한 상품, 채팅 내역 등을 확인할 수 있는 개인 페이지입니다.  
-- 회원 정보 수정 및 탈퇴 기능도 포함되어 있습니다.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8d9152c8-d015-4ad5-892a-5b7f7b411ec9" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/cc921748-39f4-4fe8-ad7f-96a3215040c2" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/73369335-8324-449d-beb4-e1d43637febe" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/bcbd77bc-7bd4-4988-9feb-a4da6648e77d" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/a7a5c8f0-07f1-418c-b3fb-f57f9c548982" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/419b4303-fe1d-4f5f-b1d5-504f9ec7b89a" width="600"/><br/>
-  <img src="https://github.com/user-attachments/assets/322abc7b-8e4d-490a-ac45-ee09d2ad3251" width="600"/>
-</p>
-</details>
 
 
