@@ -79,7 +79,7 @@
 <details>
 <summary>🏠 <strong>로그인/메인 페이지</strong></summary>
 - JWT 기반 인증으로 사용자 권한을 구분하여 페이지 접근을 제어합니다.
-- 사용자 역할(관리자/협력업체)에 따라 노출되는 메뉴가 달라집니다
+-  사용자 역할(관리자/협력업체)에 따라 노출되는 메뉴가 달라집니다
 
 <p align="center">
   <img width="48%" alt="KakaoTalk_20250630_200253016" src="https://github.com/user-attachments/assets/9a47c777-25fb-4f89-aa02-9d33f7b39c41" />
