@@ -50,7 +50,7 @@
 </p>
 
 </details>
----
+
 
 ### 📚 메뉴 구조
 
@@ -72,14 +72,13 @@
 </p>
 
 </details>
----
 
 ## 🖼️ 구현 화면
 
 <details>
 <summary>🏠 <strong>로그인/메인 페이지</strong></summary>
 - JWT 기반 인증으로 사용자 권한을 구분하여 페이지 접근을 제어합니다.
--  사용자 역할(관리자/협력업체)에 따라 노출되는 메뉴가 달라집니다
+-사용자 역할(관리자/협력업체)에 따라 노출되는 메뉴가 달라집니다
 
 <p align="center">
   <img width="48%" alt="KakaoTalk_20250630_200253016" src="https://github.com/user-attachments/assets/9a47c777-25fb-4f89-aa02-9d33f7b39c41" />
@@ -113,8 +112,8 @@
 
 <details>
 <summary>📝 <strong>구매/설치 관리</strong></summary>
-- **구매 요청부터 설치 완료 및 반품 **의 흐름을 관리합니다.
-- 복잡한 업무 흐름을 효율적으로 관리하기 위해, 상태값을 기반으로 한 단계를 분리하고, 사용자에게 현재 진행 상황을 명확히 보여줍니다.
+-<strong>구매 요청부터 설치 완료 및 반품</strong>의 흐름을 관리합니다.
+-복잡한 업무 흐름을 효율적으로 관리하기 위해, 상태값을 기반으로 한 단계를 분리하고, 사용자에게 현재 진행 상황을 명확히 보여줍니다.
 <p align="center">
   <img width="48%" alt="구매관리" src="https://github.com/user-attachments/assets/6bede5b6-e7d6-44dc-9880-92d9ca1274a1" />
   <img width="48%" alt="입고관리" src="https://github.com/user-attachments/assets/99df9f90-e21f-49b8-9745-1439c34d83f9" />
@@ -128,9 +127,9 @@
 
 <details>
 <summary>📦 <strong>물류 관리</strong></summary>
-- 창고 내 물품 입출고 내역, 위치 기반 재고 현황, 재고 실사 기능을 구현하여 **실제 창고 운영에 가까운 디지털 트윈**을 구현했습니다.
-- 재고 실사는 바코드 입력 기반으로 빠르게 수량 확인이 가능하도록 구현했습니다.
-- 로케이션 단위로 나눈 재고현황은 현장 작업자가 직관적으로 재고 분포를 파악하는 데 도움을 줍니다.
+-창고 내 물품 입출고 내역, 위치 기반 재고 현황, 재고 실사 기능을 구현하여 <strong>실제 창고 운영에 가까운 디지털 트윈</strong>을 구현했습니다.
+-재고 실사는 바코드 입력 기반으로 빠르게 수량 확인이 가능하도록 구현했습니다.
+-로케이션 단위로 나눈 재고현황은 현장 작업자가 직관적으로 재고 분포를 파악하는 데 도움을 줍니다.
 
 <p align="center">
   <img width="48%" alt="물품입출내역" src="https://github.com/user-attachments/assets/f8a9e01e-b964-4ac8-a556-90f87f58077d" />
